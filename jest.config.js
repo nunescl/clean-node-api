@@ -3,5 +3,5 @@ module.exports = {
   collectCoverageFrom: ["<rootDir>/src/**/*.ts"],
   coverageDirectory: "coverage",
   testEviroment: "node",
-  transform: { ".+\\.ts$": "ts-jest" },
+  // transform: { ".+\\.ts$": "ts-jest" },
 }
